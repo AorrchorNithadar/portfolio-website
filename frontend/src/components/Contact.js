@@ -10,5 +10,4 @@ const Contact = ({ language }) => {
   return <div className="page">{content[language]}</div>;
 };
 
-
 export default Contact;

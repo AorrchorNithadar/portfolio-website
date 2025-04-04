@@ -10,5 +10,4 @@ const Projects = ({ language }) => {
   return <div className="page">{content[language]}</div>;
 };
 
-
 export default Projects;

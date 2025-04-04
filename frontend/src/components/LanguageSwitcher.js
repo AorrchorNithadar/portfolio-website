@@ -9,5 +9,4 @@ const LanguageSwitcher = ({ language, setLanguage }) => {
   );
 };
 
-
 export default LanguageSwitcher;

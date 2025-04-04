@@ -19,5 +19,4 @@ const Navbar = ({ theme, toggleTheme, language, setLanguage }) => {
   );
 };
 
-
 export default Navbar;
